@@ -11,5 +11,4 @@ function add(int1, int2) {
 
 add(zero, one);
 add(one, one);
-
-
+add(1, 2);
