@@ -19,3 +19,4 @@ add(one, one);
 add(1, 2);
 mult(zero, one);
 mult(1, 2)
+
