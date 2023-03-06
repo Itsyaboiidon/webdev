@@ -1,0 +1,22 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "doing some webdev stuff",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itsyaboiidon/webdev.git"
+  },
+  "keywords": [
+    "webdev"
+  ],
+  "author": "Jonny He",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itsyaboiidon/webdev/issues"
+  },
+  "homepage": "https://github.com/Itsyaboiidon/webdev#readme"
+}
